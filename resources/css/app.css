@@ -1,0 +1,44 @@
+/* Clase para ajustar el tamaño y centrar el logo */
+.logo {
+    width: 250px;  /* Ajusta el tamaño según tus necesidades */
+    height: auto;
+    display: block;
+    margin: 0 auto;  /* Centra el logo horizontalmente */
+}
+
+.logo-img {
+    width: 50px;
+    height: auto;
+}
+
+/* También puedes definir estilos adicionales aquí para el formulario de login */
+.title {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.description {
+    text-align: center;
+    color: #ccc;
+}
+
+/* Estilos para el formulario */
+.authentication {
+    background-color: #2c2d4f;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.authentication-content {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.button {
+    background-color: #6c5ce7;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
